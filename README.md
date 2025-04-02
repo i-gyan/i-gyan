@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-📚 I'm currently studying Data Science<br>🏫 <br>🔭 Machine Learning<br>🌱 <br>🔗 Let's connect!: emmanuelgyan30@gmail.com<br>⚡ Fun fact: 
+📚 I'm currently studying Data Science <br>🏫 <br>🔭 Machine Learning<br>🌱 <br>🔗 Let's connect!: emmanuelgyan30@gmail.com<br>⚡ Fun fact: 
 
 
 ## 🌐 Socials:
