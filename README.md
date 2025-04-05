@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-📚 I'm currently studying Data Science with ExploreAI Academy (ALX Africa) <br>🔭 Passionate about artificial intelligence (ML) and automation <br> 👯 I’m looking to collaborate on machine learning projects <br>🔗 Let's connect!: emmanuelgyan30@gmail.com<br> ⚡ Fun fact: Computers are able to see, hear, and learn. Welcome to the future.
+📚 I'm currently studying Data Science with ExploreAI Academy (ALX Africa) <br>🔭 Passionate about artificial intelligence (ML, NLP) and automation <br> 👯 I’m looking to collaborate on machine learning projects <br>🔗 Let's connect!: emmanuelgyan30@gmail.com<br> ⚡ Fun fact: Computers are able to see, hear, and learn. Welcome to the future.
 
 
 ## 🌐 Socials:
