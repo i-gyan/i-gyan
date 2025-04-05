@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-📚 I'm currently studying Data Science <br>🔭 Passionate about artificial intelligence (ML) and automation <br>🔗 Let's connect!: emmanuelgyan30@gmail.com<br>⚡ Favorate Quote: "Predicting the Future isn't magic, it's artificial intelligence" - Dave Waters
+📚 I'm currently studying Data Science with ExploreAI Academy (ALX Africa) <br>🔭 Passionate about artificial intelligence (ML) and automation <br>🔗 Let's connect!: emmanuelgyan30@gmail.com<br>⚡ Favorate Quote: "Predicting the Future isn't magic, it's artificial intelligence" - Dave Waters
 
 
 ## 🌐 Socials:
