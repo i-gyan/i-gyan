@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-📚 I'm currently studying Data Science with ExploreAI Academy (ALX Africa) <br>🔭 Passionate about artificial intelligence (ML) and automation <br> 👯 I’m looking to collaborate on machine learning projects <br>🔗 Let's connect!: emmanuelgyan30@gmail.com<br>⚡ Favorate Quote: "Predicting the Future isn't magic, it's artificial intelligence" - Dave Waters
+📚 I'm currently studying Data Science with ExploreAI Academy (ALX Africa) <br>🔭 Passionate about artificial intelligence (ML) and automation <br> 👯 I’m looking to collaborate on machine learning projects <br>🔗 Let's connect!: emmanuelgyan30@gmail.com<br> ⚡ Fun fact: Computers are able to see, hear, and learn. Welcome to the future.
 
 
 ## 🌐 Socials:
@@ -17,8 +17,6 @@
 ### ✍️ Random Dev Quote
 "PREDICTING THE FUTURE ISN’T MAGIC, IT’S ARTIFICIAL INTELLIGENCE."
 – DAVE WATERS
-![](ttps://www.supplychaintoday.com/wp-content/uploads/2019/01/2F4E734B-1B22-4C5F-8B90-A872A9F2BB84.png)
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=i-gyan&limit=5&theme=dark&combine_all_yearly_contributions=true)
